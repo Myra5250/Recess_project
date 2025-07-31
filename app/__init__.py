@@ -1,9 +1,15 @@
 from flask import Flask
 from app.extensions import db, migrate, jwt,bcrypt
-from app.controllers.customer_controller import customer
 from app.controllers.auth_controller import auth
+from app.controllers.admin_controller import admin
+from app.controllers.customer_controller import customer
+from app.controllers.category_controller import category
+from app.controllers.product_controller import product
+from app.controllers.inquiry_controller import inquiry
+from app.controllers.testimonial_controller import testimonial 
 
-
+# This is the application factory function
+# It creates and configures the Flask application instance
 def create_app():  
     app = Flask(__name__)#It gets its value depending on how we execute the containing script
     app.config.from_object("config.Config") #configuration comes in first
@@ -15,19 +21,20 @@ def create_app():
 
     # Registering models
     from app.models.admin import Admin
-    from app.models.cart_item import CartItem
-    from app.models.cart import Cart
-    from app.models.category import Category
     from app.models.customer import Customer
-    from app.models.inquiry import Inquiry
-    from app.models.order_item import OrderItem
-    from app.models.order import Order
-    from app.models.payment import Payment
+    from app.models.category import Category
     from app.models.product import Product
+    from app.models.inquiry import Inquiry
     from app.models.testimonial import Testimonial
 
     #registering blue prints
     app.register_blueprint(auth)
+    app.register_blueprint(admin)
+    app.register_blueprint(customer)
+    app.register_blueprint(category)
+    app.register_blueprint(product)
+    app.register_blueprint(inquiry)
+    app.register_blueprint(testimonial)
 
    #index route
     @app.route('/') 
