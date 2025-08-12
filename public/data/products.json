@@ -1,0 +1,1407 @@
+[
+  {
+    "id": 31,
+    "name": "Bed Room Lamps",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp2.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Tall Table Lamps",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp1.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Decoration Light",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp3.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Standard Floor Lamp",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp1.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Floor Light",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp2.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Tall Lamp",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp3.jpg"
+  },
+
+  {
+    "id": 37,
+    "name": "floor lampshade",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp4.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Floor Standing Lamps",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp5.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Tall Floor Lamps",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp6.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Upright Lamps",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp7.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Cordless Lamps Battery Operated",
+    "category": "LED Light",
+    "image": "/images/products/led light 1.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Cordless Battery Table Lamp",
+    "category": "LED Light",
+    "image": "/images/products/led light2.jpg"
+  },
+
+   {
+    "id": 43,
+    "name": "Cordless Table Lamp Out Door",
+    "category": "LED Light",
+    "image": "/images/products/led light3.jpg"
+  },
+
+  {
+    "id": 44,
+    "name": "Long Ceiling Rose For Pendant Lamp",
+    "category": "Parts & Spares",
+    "image": "/images/products/parts and spares 2.jpg"
+  },
+
+  {
+    "id": 45,
+    "name": "Round Pendant Ceiling Rose Fixture",
+    "category": "Parts & Spares",
+    "image": "/images/products/parts and spares 3.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Lampshade Manufacturers",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp4.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Bedside Light",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp5.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Bed side Table Lamp",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp6.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Lamp Factory",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp7.jpg"
+  },
+
+  {
+    "id": 50,
+    "name": "Lamp shades supplies",
+    "category": "Parts & Spares",
+    "image": "/images/products/parts and spares4.jpg"
+  },
+  {
+    "id": 128,
+    "name": "DIY Lamp Pole",
+    "category": "Parts & Spares",
+    "image": "/images/products/parts and spares1.jpg"
+  },
+  {
+    "id": 129,
+    "name": "Round Canopy for Single pendant",
+    "category": "Parts & Spares",
+    "image": "/images/products/parts and spares5.jpg"
+  },
+  {
+    "id": 130,
+    "name": "Long Canopy For Pendant Lamp",
+    "category": "Parts & Spares",
+    "image": "/images/products/parts and spares6.jpg"
+  },
+  {
+    "id": 131,
+    "name": "D125Z Led Bulb Manufacturing",
+    "category": "Lighting bulbs",
+    "image": "/images/products/lighting bulb1.jpg"
+  },
+
+  
+    {
+    "id": 132,
+    "name": "T45 Led Bulb Light Bulb",
+    "category": "Lighting bulbs",
+    "image": "/images/products/lighting bulb2.jpg"
+  },
+  {
+    "id": 133,
+    "name": "T30 Led Bulb Light Bulb suppliers",
+    "category": "Lighting bulbs",
+    "image": "/images/products/lighting bulb3.jpg"
+  },
+  {
+    "id": 134,
+    "name": "G80 Led Bulb",
+    "category": "Lighting bulbs",
+    "image": "/images/products/lighting bulb4.jpg"
+  },
+  {
+    "id": 135,
+    "name": "St64 Led Bulb",
+    "category": "Lighting bulbs",
+    "image": "/images/products/lighting bulb5.jpg"
+  },
+  {
+    "id": 136,
+    "name": "S165 Led Bulb",
+    "category": "Lighting bulbs",
+    "image": "/images/products/lighting bulb6.jpg"
+  },
+
+  {
+    "id": 137,
+    "name": "G125 Led Bulb",
+    "category": "Lighting bulbs",
+    "image": "/images/products/lighting bulb7.jpg"
+  },
+  {
+    "id": 138,
+    "name": "G95 Led Bulb",
+    "category": "Lighting bulbs",
+    "image": "/images/products/lighting bulb8.jpg"
+  },
+
+  
+    {
+    "id": 139,
+    "name": "C35 Led Bulb",
+    "category": "Lighting bulbs",
+    "image": "/images/products/lighting bulb9.jpg"
+  },
+  {
+    "id": 140,
+    "name": "A60 Led Bulb",
+    "category": "Lighting bulbs",
+    "image": "/images/products/lighting bulb3.jpg"
+  },
+
+  {
+    "id": 141,
+    "name": "Lampe De Chevet Petite",
+    "category": "Wall Lamps",
+    "image": "/images/products/wall lamp3.png"
+  },
+  {
+    "id": 142,
+    "name": "Lapen Obi",
+    "category": "Wall Lamps",
+    "image": "/images/products/wall lamp2.png"
+  },
+
+   {
+    "id": 143,
+    "name": "Living Room Lights",
+    "category": "Wall Lamps",
+    "image": "/images/products/wall lamp4.png"
+  },
+  {
+    "id": 144,
+    "name": "Lighting stores",
+    "category": "Wall Lamps",
+    "image": "/images/products/wall lamp5.png"
+  },
+
+  
+    {
+    "id": 145,
+    "name": "Industrial Pendant Lighting",
+    "category": "Wall Lamps",
+    "image": "/images/products/wall lamp6.png"
+  },
+  {
+    "id": 146,
+    "name": "Trendy Lighting",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp8.jpg"
+  },
+  {
+    "id": 147,
+    "name": "Lighting products company",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp9.jpg"
+  },
+  {
+    "id": 148,
+    "name": "Lamp Shade Maker",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp10.jpg"
+  },
+  {
+    "id": 149,
+    "name": "Lampe",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp11.jpg"
+  },
+
+  
+   {
+    "id": 150,
+    "name": "Trendy Lightings",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp12.jpg"
+  },
+
+  
+    {
+    "id": 151,
+    "name": "The bedside lamp",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp13.jpg"
+  },
+  {
+    "id": 152,
+    "name": "Stehleuchten",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp14.jpg"
+  },
+  {
+    "id": 153,
+    "name": "Tall Floor Standing Lamps",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp15.jpg"
+  },
+  {
+    "id": 154,
+    "name": "Floor Lamps For Home Decoration",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp16.jpg"
+  },
+  {
+    "id":155,
+    "name": "Stand Lamp",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp17.jpg"
+  },
+
+   {
+    "id": 156,
+    "name": "Floor Lamps For Deco",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp18.jpg"
+  },
+  {
+    "id": 156,
+    "name": "Floor Lamp",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp19.jpg"
+  },
+
+  
+    {
+    "id": 157,
+    "name": "Floor Lamp Stand",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp20.jpg"
+  },
+  {
+    "id": 158,
+    "name": "Desighner Lampen",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp21.jpg"
+  },
+  {
+    "id": 159,
+    "name": "A floor lamp",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp22.jpg"
+  },
+  {
+    "id": 160,
+    "name": "Floor Stand Light",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp23.jpg"
+  },
+  {
+    "id": 161,
+    "name": "Floor Lamp for Living Room",
+    "category": "Floor Lamps",
+    "image": "/images/products/floor lamp24.jpg"
+  },
+
+
+
+   {
+    "id": 162,
+    "name": "LampShade Frames Suppliers",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp8.jpg"
+  },
+  {
+    "id": 163,
+    "name": "Table Light",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp9.jpg"
+  },
+
+  
+    {
+    "id": 164,
+    "name": "Decorative Lamps",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp10.jpg"
+  },
+  {
+    "id": 165,
+    "name": "Indoor Lighting Manufactures",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp11.jpg"
+  },
+  {
+    "id": 166,
+    "name": "Luminaire Manufactures",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp12.jpg"
+  },
+  {
+    "id": 167,
+    "name": "Modern Table Lamps",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp13.jpg"
+  },
+  {
+    "id": 168,
+    "name": "Lamp Manufactures",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp14.jpg"
+  },
+
+  {
+    "id": 169,
+    "name": "Lamps Companies",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp15.jpg"
+  },
+  {
+    "id": 170,
+    "name": "Cool Table Lamp",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp16.jpg"
+  },
+  {
+    "id":   171,
+    "name": "Small Table Lamp",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp17.jpg"
+  },
+
+   {
+    "id": 172,
+    "name": "LampShade Frames Suppliers",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp8.jpg"
+  },
+  {
+    "id": 173,
+    "name": "Table Light",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp9.jpg"
+  },
+
+  
+    {
+    "id": 174,
+    "name": "Decorative Lamps",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp10.jpg"
+  },
+  {
+    "id": 175,
+    "name": "Indoor Lighting Manufactures",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp11.jpg"
+  },
+  {
+    "id": 176,
+    "name": "Luminaire Manufactures",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp12.jpg"
+  },
+  {
+    "id": 177,
+    "name": "Modern Table Lamps",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp13.jpg"
+  },
+  {
+    "id":178 ,
+    "name": "Lamp Manufactures",
+    "category": "Table Lamps",
+    "image": "/images/products/table lamp14.jpg"
+  },
+
+  {
+    "id": 1,
+    "name": "Pendant Lights",
+    "category": "Chandeliers",
+    "image": "/images/products/1.jpg"
+  },
+
+  {
+    "id": 2,
+    "name": "Rattan Pendant China  Lighting Manufacturer",
+    "category": "Chandeliers",
+    "image": "/images/products/2.jpg"
+  },
+
+  
+   {
+    "id": 3,
+    "name": "Ceiling Light Fittings",
+    "category": "Chandeliers",
+    "image": "/images/products/3.jpg"
+  },
+
+  
+  {
+    "id": 4,
+    "name": "Pendant Lighting Producers",
+    "category": "Chandeliers",
+    "image": "/images/products/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ceiling Light Pendant",
+    "category": "Wall Lamps",
+    "image": "/images/products/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ceiling Lamp",
+    "category": "Wall Lamps",
+    "image": "/images/products/6.jpg"
+  },
+  {
+    "id":7,
+    "name": "Decoration Light",
+    "category": "Wall Lamps",
+    "image": "/images/products/7.jpg"
+  },
+  {
+    "id":8,
+    "name": "Lighting Decorative",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/8.jpg"
+  },
+
+   {
+    "id": 9,
+    "name": "LampShade Frames Suppliers",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Table Light",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/10.jpg"
+  },
+
+  
+    {
+    "id": 11,
+    "name": "Decorative Lamps",
+    "category": "Wall Lamps",
+    "image": "/images/products/11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Indoor Lighting Manufactures",
+    "category": "Fragrance Diffusers",
+    "image": "/images/products/diffuser1.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Luminaire Manufactures",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/13.jpg"
+  },
+  
+  {
+    "id": 15,
+    "name": "Lamp Manufactures",
+    "category": "Pendant & Ceiling ",
+    "image": "/images/products/15.jpg"
+  },
+
+  {
+    "id": 16,
+    "name": "Pendant Lights",
+    "category": "Pendant & Ceiling ",
+    "image": "/images/products/22.jpg"
+  },
+
+  {
+    "id": 17,
+    "name": "Rattan Pendant China  Lighting Manufacturer",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/17.jpg"
+  },
+
+  
+   {
+    "id": 18,
+    "name": "Ceiling Light Fittings",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/18.jpg"
+  },
+
+  
+    {
+    "id": 19,
+    "name": "Pendant Lighting Producers",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Ceiling Light Pendant",
+    "category": "Frangrance Diffusers",
+    "image": "/images/products/diffuser2.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Ceiling Lamp",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/21.jpg"
+  },
+  {
+    "id":22,
+    "name": "Decoration Light",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/22.jpg"
+  },
+  {
+    "id":23,
+    "name": "Lighting Decorative",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/20.jpg"
+  },
+
+   {
+    "id": 24,
+    "name": "LampShade Frames Suppliers",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/23.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Table Light",
+    "category": "Fragrance Diffusers",
+    "image": "/images/products/diffuser3.jpg"
+  },
+
+  
+    {
+    "id": 26,
+    "name": "Decorative Lamps",
+    "category": "Fragrance Diffusers",
+    "image": "/images/products/diffuser4.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Indoor Lighting Manufactures",
+    "category": "Fragrance Diffusers",
+    "image": "/images/products/diffuser5.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Luminaire Manufactures",
+    "category": "Fragrance Diffusers",
+    "image": "/images/products/diffuser6.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Modern Table Lamps",
+    "category": "Fragrance Diffusers",
+    "image": "/images/products/diffuser7.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Lamp Manufactures",
+    "category": "Fragrance Diffusers ",
+    "image": "/images/products/diffuser8.jpg"
+  },
+
+ {
+    "id": 51,
+    "name": "Pendant Lights",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/24.jpg"
+  },
+
+  {
+    "id": 52,
+    "name": "Rattan Pendant China  Lighting Manufacturer",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/25.jpg"
+  },
+
+  
+   {
+    "id": 53,
+    "name": "Ceiling Light Fittings",
+    "category": "Pendant & Ceiling ",
+    "image": "/images/products/26.jpg"
+  },
+
+  
+    {
+    "id": 54,
+    "name": "Pendant Lighting Producers",
+    "category": "Pendant & Ceiling ",
+    "image": "/images/products/27.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Ceiling Light Pendant",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/28.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Ceiling Lamp",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/29.jpg"
+  },
+  {
+    "id":57,
+    "name": "Decoration Light",
+    "category": "Pendant & Ceiling ",
+    "image": "/images/products/30.jpg"
+  },
+  {
+    "id":58,
+    "name": "Lighting Decorative",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/31.jpg"
+  },
+
+   {
+    "id": 59,
+    "name": "LampShade Frames Suppliers",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/32.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Table Light",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/33.jpg"
+  },
+
+  
+    {
+    "id": 61,
+    "name": "Decorative Lamps",
+    "category": "Wall Lamps",
+    "image": "/images/products/34.jpg"
+  },
+  {
+    "id": 62,
+    "name": "Indoor Lighting Manufactures",
+    "category": "Chandeliers",
+    "image": "/images/products/35.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Luminaire Manufactures",
+    "category": "Chandeliers",
+    "image": "/images/products/36.jpg"
+  },
+  {
+    "id":64,
+    "name": "Modern Table Lamps",
+    "category": "Chandeliers",
+    "image": "/images/products/37.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Lamp Manufactures",
+    "category": "Pendant & Ceiling ",
+    "image": "/images/products/38.jpg"
+  },
+
+  {
+    "id": 66,
+    "name": "Pendant Lights",
+    "category": "Chandeliers",
+    "image": "/images/products/39.jpg"
+  },
+
+  {
+    "id": 67,
+    "name": "Rattan Pendant China  Lighting Manufacturer",
+    "category": "Chandeliers",
+    "image": "/images/products/40.jpg"
+  },
+
+  
+   {
+    "id": 68,
+    "name": "Ceiling Light Fittings",
+    "category": "Chandeliers",
+    "image": "/images/products/41.jpg"
+  },
+
+  
+    {
+    "id": 69,
+    "name": "Pendant Lighting Producers",
+    "category": "Chandeliers",
+    "image": "/images/products/42.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Ceiling Light Pendant",
+    "category": "Chandeliers",
+    "image": "/images/products/43.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Ceiling Lamp",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/44.jpg"
+  },
+  {
+    "id":72,
+    "name": "Decoration Light",
+    "category": "Chandeliers",
+    "image": "/images/products/45.jpg"
+  },
+  {
+    "id":73,
+    "name": "Lighting Decorative",
+    "category": "Chandeliers",
+    "image": "/images/products/46.jpg"
+  },
+
+   {
+    "id": 74,
+    "name": "LampShade Frames Suppliers",
+    "category": "Chandeliers",
+    "image": "/images/products/47.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Table Light",
+    "category": "Chandeliers",
+    "image": "/images/products/48.jpg"
+  },
+
+  
+    {
+    "id": 76,
+    "name": "Decorative Lamps",
+    "category": "Chandeliers",
+    "image": "/images/products/49.jpg"
+  },
+  {
+    "id": 77,
+    "name": "Indoor Lighting Manufactures",
+    "category": "Chandeliers",
+    "image": "/images/products/50.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Luminaire Manufactures",
+    "category": "Chandeliers",
+    "image": "/images/products/51.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Modern Table Lamps",
+    "category": "Chandeliers",
+    "image": "/images/products/52.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Lamp Manufactures",
+    "category": "Chandeliers",
+    "image": "/images/products/53.jpg"
+  },
+
+  
+ {
+    "id": 81,
+    "name": "Pendant Lights",
+    "category": "Chandeliers",
+    "image": "/images/products/54.jpg"
+  },
+
+
+   {
+    "id": 83,
+    "name": "Ceiling Light Fittings",
+    "category": "Chandeliers ",
+    "image": "/images/products/56.jpg"
+  },
+
+  
+    {
+    "id": 84,
+    "name": "Pendant Lighting Producers",
+    "category": "Chandeliers",
+    "image": "/images/products/57.jpg"
+  },
+  {
+    "id": 85,
+    "name": "Ceiling Light Pendant",
+    "category": "Chandeliers",
+    "image": "/images/products/58.jpg"
+  },
+  {
+    "id": 86,
+    "name": "Ceiling Lamp",
+    "category": "Chandeliers",
+    "image": "/images/products/59.jpg"
+  },
+  {
+    "id":87,
+    "name": "Decoration Light",
+    "category": "Pendant & Ceiling ",
+    "image": "/images/products/60.jpg"
+  },
+  {
+    "id":88,
+    "name": "Lighting Decorative",
+    "category": "Chandeliers",
+    "image": "/images/products/61.jpg"
+  },
+
+   
+  {
+    "id": 90,
+    "name": "Table Light",
+    "category": "Chandeliers",
+    "image": "/images/products/63.jpg"
+  },
+
+  
+    {
+    "id": 91,
+    "name": "Decorative Lamps",
+    "category": "Chandeliers",
+    "image": "/images/products/64.jpg"
+  },
+  {
+    "id": 92,
+    "name": "Indoor Lighting Manufactures",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/65.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Luminaire Manufactures",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/66.jpg"
+  },
+  {
+    "id":94,
+    "name": "Modern Table Lamps",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/67.jpg"
+  },
+  {
+    "id": 95,
+    "name": "Lamp Manufactures",
+    "category": "Pendant & Ceiling ",
+    "image": "/images/products/68.jpg"
+  },
+
+  {
+    "id": 96,
+    "name": "Pendant Lights",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/69.jpg"
+  },
+
+  {
+    "id": 97,
+    "name": "Rattan Pendant China  Lighting Manufacturer",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/70.jpg"
+  },
+
+  
+   {
+    "id": 98,
+    "name": "Ceiling Light Fittings",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/71.jpg"
+  },
+
+  
+    {
+    "id": 99,
+    "name": "Pendant Lighting Producers",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/72.jpg"
+  },
+  {
+    "id": 100,
+    "name": "Ceiling Light Pendant",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/73.jpg"
+  },
+  {
+    "id": 101,
+    "name": "Ceiling Lamp",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/74.jpg"
+  },
+  {
+    "id":102,
+    "name": "Decoration Light",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/75.jpg"
+  },
+  {
+    "id":103,
+    "name": "Lighting Decorative",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/76.jpg"
+  },
+
+   {
+    "id": 104,
+    "name": "LampShade Frames Suppliers",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/77.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Table Light",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/78.jpg"
+  },
+
+  
+    {
+    "id": 106,
+    "name": "Decorative Lamps",
+    "category": "Pendant & Ceiling ",
+    "image": "/images/products/79.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Indoor Lighting Manufactures",
+    "category": "Wall Lamps",
+    "image": "/images/products/80.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Luminaire Manufactures",
+    "category": "Wall Lamps",
+    "image": "/images/products/81.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Modern Table Lamps",
+    "category": "Wall Lamps",
+    "image": "/images/products/82.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Lamp Manufactures",
+    "category": "Wall Lamps",
+    "image": "/images/products/83.jpg"
+  },                                                          
+
+   
+    {
+    "id": 111,
+    "name": "Decorative Lamps",
+    "category": "Wall Lamps",
+    "image": "/images/products/84.jpg"
+  },
+  {
+    "id": 112,
+    "name": "Indoor Lighting Manufactures",
+    "category": "Wall Lamps",
+    "image": "/images/products/85.jpg"
+  },
+  {
+    "id": 113,
+    "name": "Luminaire Manufactures",
+    "category": "Wall Lamps",
+    "image": "/images/products/86.jpg"
+  },
+  {
+    "id": 114,
+    "name": "Modern Table Lamps",
+    "category": "Wall Lamps",
+    "image": "/images/products/87.jpg"
+  },
+  {
+    "id": 115,
+    "name": "Lamp Manufactures",
+    "category": "Wall Lamps",
+    "image": "/images/products/88.jpg"
+  },
+
+  
+ {
+    "id": 116,
+    "name": "Pendant Lights",
+    "category": "Wall Lamps",
+    "image": "/images/products/89.jpg"
+  },
+
+  {
+    "id": 117,
+    "name": "Rattan Pendant China  Lighting Manufacturer",
+    "category": "Wall Lamps",
+    "image": "/images/products/90.jpg"
+  },
+
+  
+   {
+    "id": 118,
+    "name": "Ceiling Light Fittings",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/91.jpg"
+  },
+
+  
+    {
+    "id": 119,
+    "name": "Pendant Lighting Producers",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/92.jpg"
+  },
+  {
+    "id": 120,
+    "name": "Ceiling Light Pendant",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/93.jpg"
+  },
+  {
+    "id": 121,
+    "name": "Ceiling Lamp",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/94.jpg"
+  },
+  {
+    "id":122,
+    "name": "Decoration Light",
+    "category": "Pendant & Ceiling ",
+    "image": "/images/products/95.jpg"
+  },
+  {
+    "id":123,
+    "name": "Lighting Decorative",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/96.jpg"
+  },
+
+   {
+    "id": 124,
+    "name": "LampShade Frames Suppliers",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/97.jpg"
+  },
+  {
+    "id": 125,
+    "name": "Table Light",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/98.jpg"
+  },
+
+  
+    {
+    "id": 126,
+    "name": "Decorative Lamps",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/99.jpg"
+  },
+  {
+    "id": 127,
+    "name": "Indoor Lighting Manufactures",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/100.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Luminaire Manufactures",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/66.jpg"
+  },
+  {
+    "id":94,
+    "name": "Modern Table Lamps",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/67.jpg"
+  },
+  {
+    "id": 95,
+    "name": "Lamp Manufactures",
+    "category": "Pendant & Ceiling ",
+    "image": "/images/products/68.jpg"
+  },
+
+  {
+    "id": 96,
+    "name": "Pendant Lights",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/69.jpg"
+  },
+
+  {
+    "id": 97,
+    "name": "Rattan Pendant China  Lighting Manufacturer",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/70.jpg"
+  },
+
+  
+   {
+    "id": 98,
+    "name": "Ceiling Light Fittings",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/71.jpg"
+  },
+
+  
+    {
+    "id": 99,
+    "name": "Pendant Lighting Producers",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/72.jpg"
+  },
+  {
+    "id": 100,
+    "name": "Ceiling Light Pendant",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/73.jpg"
+  },
+  {
+    "id": 101,
+    "name": "Ceiling Lamp",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/74.jpg"
+  },
+  {
+    "id":102,
+    "name": "Decoration Light",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/75.jpg"
+  },
+  {
+    "id":103,
+    "name": "Lighting Decorative",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/76.jpg"
+  },
+
+   {
+    "id": 104,
+    "name": "LampShade Frames Suppliers",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/77.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Table Light",
+    "category": "Pendant & Ceiling",
+    "image": "/images/products/78.jpg"
+  },
+
+  
+    {
+    "id": 106,
+    "name": "Decorative Lamps",
+    "category": "Pendant & Ceiling ",
+    "image": "/images/products/79.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Indoor Lighting Manufactures",
+    "category": "Wall Lamps",
+    "image": "/images/products/80.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Luminaire Manufactures",
+    "category": "Wall Lamps",
+    "image": "/images/products/81.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Modern Table Lamps",
+    "category": "Wall Lamps",
+    "image": "/images/products/82.jpg"
+  },
+
+  {
+    "id": 179,
+    "name": "Ceiling Light Pendant",
+    "category": "New Features",
+    "image": "/images/products/73.jpg"
+  },
+  {
+    "id": 180,
+    "name": "Ceiling Lamp",
+    "category": "New Features",
+    "image": "/images/products/74.jpg"
+  },
+  {
+    "id":181,
+    "name": "Decoration Light",
+    "category": "New Features",
+    "image": "/images/products/75.jpg"
+  },
+  {
+    "id":182,
+    "name": "Lighting Decorative",
+    "category": "New Features",
+    "image": "/images/products/76.jpg"
+  },
+
+   {
+    "id": 183,
+    "name": "LampShade Frames Suppliers",
+    "category": "New Features",
+    "image": "/images/products/77.jpg"
+  },
+  {
+    "id": 184,
+    "name": "Table Light",
+    "category": "New Features",
+    "image": "/images/products/78.jpg"
+  },
+
+  
+    {
+    "id": 185,
+    "name": "Decorative Lamps",
+    "category": "New Features",
+    "image": "/images/products/79.jpg"
+  },
+  {
+    "id": 186,
+    "name": "Indoor Lighting Manufactures",
+    "category": "New Features",
+    "image": "/images/products/80.jpg"
+  },
+  {
+    "id": 187,
+    "name": "Luminaire Manufactures",
+    "category": "New Features",
+    "image": "/images/products/81.jpg"
+  },
+  {
+    "id": 189,
+    "name": "Modern Table Lamps",
+    "category": "New Features",
+    "image": "/images/products/82.jpg"
+  },
+  {
+    "id": 190,
+    "name": "Lamp Manufactures",
+    "category": "New Features",
+    "image": "/images/products/83.jpg"
+  },
+
+   {
+    "id":191,
+    "name": "Decoration Light",
+    "category": "New Features",
+    "image": "/images/products/1.jpg"
+  },
+  {
+    "id":192,
+    "name": "Lighting Decorative",
+    "category": "New Features",
+    "image": "/images/products/2.jpg"
+  },
+
+   {
+    "id": 193,
+    "name": "LampShade Frames Suppliers",
+    "category": "New Features",
+    "image": "/images/products/3.jpg"
+  },
+  {
+    "id": 194,
+    "name": "Table Light",
+    "category": "New Features",
+    "image": "/images/products/15.jpg"
+  },
+
+  
+    {
+    "id": 195,
+    "name": "Decorative Lamps",
+    "category": "New Features",
+    "image": "/images/products/18.jpg"
+  },
+  {
+    "id": 196,
+    "name": "Indoor Lighting Manufactures",
+    "category": "New Features",
+    "image": "/images/products/12.jpg"
+  },
+  {
+    "id": 197,
+    "name": "Luminaire Manufactures",
+    "category": "New Features",
+    "image": "/images/products/59.jpg"
+  },
+  {
+    "id": 198,
+    "name": "Modern Table Lamps",
+    "category": "New Features",
+    "image": "/images/products/diffuser6.jpg"
+  },
+  {
+    "id": 199,
+    "name": "Lamp Manufactures",
+    "category": "New Features",
+    "image": "/images/products/10.jpg"
+  } ,    
+  
+   {
+    "id": 200,
+    "name": "Lamp Manufactures",
+    "category": "New Features",
+    "image": "/images/products/80.jpg"
+  } 
+      
+  
+ 
+  
+]
+

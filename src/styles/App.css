@@ -1,0 +1,30 @@
+/* General reset and base styles */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9f9;
+  color: #222;
+}
+
+/* Makes sure the page takes full height */
+html, body, #root {
+  height: 100%;
+}
+
+/* Structure for layout */
+.main-content {
+  min-height: calc(100vh - 120px); /* Adjust based on Navbar + Footer height */
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: #fff;
+}
+
+/* Basic link styles */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
