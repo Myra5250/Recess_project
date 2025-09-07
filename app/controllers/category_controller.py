@@ -17,10 +17,9 @@ def create_category():
         return jsonify({'message': 'Invalid input'}), HTTP_400_BAD_REQUEST
 
     admin = Admin.query.filter_by(id=get_jwt_identity()).first()
+    if not admin or admin.role != 'admin':
+        return jsonify({'message': 'Only admins can perform this action'}), HTTP_401_UNAUTHORIZED
     
-    if admin.role != 'admin':
-        return jsonify({'message': 'Only admins can create categories'}), HTTP_401_UNAUTHORIZED
-
     try:
         category = Category(
             name=data.get('name'),

@@ -1,4 +1,5 @@
 from flask import Flask
+from flask_cors import CORS
 from app.extensions import db, migrate, jwt,bcrypt
 from app.controllers.auth_controller import auth
 from app.controllers.admin_controller import admin
@@ -15,6 +16,14 @@ def create_app():
     app.config.from_object("config.Config") #configuration comes in first
     
     db.init_app(app) # then the db
+    CORS(app, resources={
+        r"/*": {
+            "origins": ["http://localhost:3000", "http://127.0.0.1:5000"],
+            "methods": ["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"],
+            "allow_headers": ["Content-Type", "Authorization"],
+            "supports_credentials": True
+        }
+    }, supports_credentials=True)
     migrate.init_app(app, db) #then we migrate 
     jwt.init_app(app) 
     bcrypt.init_app(app)

@@ -1,5 +1,5 @@
 from flask import Blueprint, request, jsonify
-from app.status_codes import HTTP_500_INTERNAL_SERVER_ERROR, HTTP_401_UNAUTHORIZED,HTTP_400_BAD_REQUEST, HTTP_200_OK,HTTP_404_NOT_FOUND 
+from app.status_codes import HTTP_500_INTERNAL_SERVER_ERROR, HTTP_401_UNAUTHORIZED, HTTP_200_OK,HTTP_404_NOT_FOUND 
 from app.models.inquiry import Inquiry
 from app.models.customer import Customer
 from flask_jwt_extended import jwt_required, get_jwt_identity 
@@ -9,35 +9,51 @@ inquiry = Blueprint('inquiry', __name__, url_prefix='/inquiry')
 
 # Creating a new inquiry
 @inquiry.route('/create', methods=['POST'])
-@jwt_required()
 def create_inquiry():
+    data = request.get_json()
+    inquiry = Inquiry(
+        name=data.get('name'),
+        email=data.get('email'),
+        message=data.get('message'),
+
+    )
+    db.session.add(inquiry)
+    db.session.commit()
+
+    return jsonify({
+        'id': inquiry.id,
+        'name': inquiry.name,
+        'email': inquiry.email,
+        'message': inquiry.message,
+
+    }), HTTP_200_OK
+
+# ...existing code...
+
+# Get all inquiries
+@inquiry.route('/all', methods=['GET'])
+def get_all_inquiries():
     try:
-        data = request.get_json()
-        if not data:
-            return jsonify({"message": "No input data provided"}), HTTP_400_BAD_REQUEST
+        inquiries = Inquiry.query.all()
+        if not inquiries:
+            return jsonify({'error': 'No inquiries found'}), HTTP_404_NOT_FOUND
 
-        current_user_id = get_jwt_identity()
-        current_customer = Customer.query.get(current_user_id) 
-         
-        if not current_customer:
-            return jsonify({"message": "Unauthorized user"}), HTTP_401_UNAUTHORIZED
-        
-        inquiry = Inquiry(
-            id=id,
-            name=data.get('name'),
-            email=data.get('email'),
-            message=data.get('message'),
-            timestamp=data.get('timestamp')
+        inquiry_list = []
+        for inquiry in inquiries:
+            inquiry_info = {
+                'id': inquiry.id,
+                'name': inquiry.name,
+                'email': inquiry.email,
+                'message': inquiry.message,
+                'timestamp': getattr(inquiry, 'timestamp', None)
+            }
+            inquiry_list.append(inquiry_info)
 
-        )
-
-        db.session.add(inquiry)
-        db.session.commit()
-
-        return jsonify({"message": "Inquiry created successfully", "inquiry_id": inquiry.id}), HTTP_200_OK
+        return jsonify({'inquiries': inquiry_list}), HTTP_200_OK
     except Exception as e:
         db.session.rollback()
-        return jsonify({"message": str(e)}), HTTP_500_INTERNAL_SERVER_ERROR
+        return jsonify({'error': str(e)}), HTTP_500_INTERNAL_SERVER_ERROR
+
 
 # Updating an inquiry  
 @inquiry.route('/update/<int:inquiry_id>', methods=['PUT'])
